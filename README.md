@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manasvisingh713@gmail.com**
 
-- ⚡ Fun fact **I like to watch anime.**
+- ⚡ Fun fact **I like to watch anime.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
