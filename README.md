@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **AR/VR, web3, react native**
-
-- 👨‍💻 All of my projects are available at [https://alcyone713.github.io/My-portfolio/](https://alcyone713.github.io/My-portfolio/)
+- 🌱 I’m currently learning **a lot of things**
 
 - 💬 Ask me about **ReactJS**
 
